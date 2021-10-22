@@ -10,20 +10,20 @@ func handleSort(s1: String, s2: String) -> Bool {
 
 var sortedStarWarCharacters = startWarCharacters.sorted(by: handleSort)
 
-// var sortedStarWarCharacters = startWarCharacters.sorted(by: {
-//     (s1: String, s2: String) -> Bool in
-//         return s1 < s2
-// })
+var sortedStarWarCharacters = startWarCharacters.sorted(by: {
+    (s1: String, s2: String) -> Bool in
+        return s1 < s2
+})
 
 
-// var sortedStarWarCharacters = startWarCharacters.sorted(by: {
-//     (s1, s2) -> Bool in
-//         return s1 < s2
-// })
+var sortedStarWarCharacters = startWarCharacters.sorted(by: {
+    (s1, s2) -> Bool in
+        return s1 < s2
+})
 
-// var sortedStarWarCharacters = startWarCharacters.sorted(by: {
-//     $0 > $1
-// })
+var sortedStarWarCharacters = startWarCharacters.sorted(by: {
+    $0 > $1
+})
 
 
 print(startWarCharacters)
@@ -35,37 +35,37 @@ var squareNumbers = someNumbers.map { (someNumber) -> Int in
 
 print(someNumbers)
 
-// func doTask1(completionHandler: () -> Void) {
-//     print("do task 1")
-//     completionHandler()
-// }
+func doTask1(completionHandler: () -> Void) {
+    print("do task 1")
+    completionHandler()
+}
 
-// doTask1 {
-//     print("This task do after task 1")
-// }
-
-
-// func doTask1(completionHandler: @escaping(_ responseString: String, _ errorCode) -> Void) {
-//     print("do task 1")
-//     completionHandler("success", 200)
-// }
-
-// doTask1 { (responseStr, errCode) in
-//     print("This task do after task 1")
-// }
+doTask1 {
+    print("This task do after task 1")
+}
 
 
+func doTask1(completionHandler: @escaping(_ responseString: String, _ errorCode) -> Void) {
+    print("do task 1")
+    completionHandler("success", 200)
+}
 
-// let doAhardWord = {
-//     print("This is a hard word")
-// }
+doTask1 { (responseStr, errCode) in
+    print("This task do after task 1")
+}
 
-// let anotherHardWord = doAhardWord // referance type
 
-// print("Do task A")
 
-// anotherHardWord()
+let doAhardWord = {
+    print("This is a hard word")
+}
 
+let anotherHardWord = doAhardWord // referance type
+
+print("Do task A")
+
+anotherHardWord()
+// 
 
 func doSomeWord(hardWork: @autoclosure() -> Void) {
     print("before autoclosure")

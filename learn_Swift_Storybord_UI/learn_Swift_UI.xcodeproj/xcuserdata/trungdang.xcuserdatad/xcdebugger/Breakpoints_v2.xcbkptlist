@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F93A16DF-AB6C-4CFC-9741-B6217DCD42E4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9788B46D-957B-4BEC-9EB3-08C855A6032B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "learn_Swift_UI/PetTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "PetTableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "9788B46D-957B-4BEC-9EB3-08C855A6032B - 647d68b5bb6c3a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "learn_Swift_UI.PetTableViewCell.labelName.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "learn_Swift_UI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/trungdang/Desktop/learn_Swift_UI/learn_Swift_UI/PetTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "9788B46D-957B-4BEC-9EB3-08C855A6032B - fedb05d888a1a7b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "learn_Swift_UI.PetTableViewCell.labelName.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "learn_Swift_UI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/trungdang/Desktop/learn_Swift_UI/learn_Swift_UI/PetTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "9788B46D-957B-4BEC-9EB3-08C855A6032B - f2c3cf3e5a49e73a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "learn_Swift_UI.PetTableViewCell.labelName.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "learn_Swift_UI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/trungdang/Desktop/learn_Swift_UI/learn_Swift_UI/PetTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "9788B46D-957B-4BEC-9EB3-08C855A6032B - 17b3076a4184cfe5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "learn_Swift_UI.PetTableViewCell.labelName.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "learn_Swift_UI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/trungdang/Desktop/learn_Swift_UI/learn_Swift_UI/PetTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "9788B46D-957B-4BEC-9EB3-08C855A6032B - 469ba2768362458b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "learn_Swift_UI.PetTableViewCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; learn_Swift_UI.PetTableViewCell"
+                  moduleName = "learn_Swift_UI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/trungdang/Desktop/learn_Swift_UI/learn_Swift_UI/PetTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "9788B46D-957B-4BEC-9EB3-08C855A6032B - 22ef86ef63e33ea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "learn_Swift_UI.PetTableViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;learn_Swift_UI.PetTableViewCell&gt;"
+                  moduleName = "learn_Swift_UI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/trungdang/Desktop/learn_Swift_UI/learn_Swift_UI/PetTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EA6F3A9A-B2AB-4BC1-8767-4A8EC545E4FE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "learn_Swift_UI/PetTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "PetTableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "EA6F3A9A-B2AB-4BC1-8767-4A8EC545E4FE - 1e840092270f0f03"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "learn_Swift_UI.PetTableViewCell.labelTitle.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "learn_Swift_UI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/trungdang/Desktop/learn_Swift_UI/learn_Swift_UI/PetTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "EA6F3A9A-B2AB-4BC1-8767-4A8EC545E4FE - 8f4cbde8ed7bd317"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "learn_Swift_UI.PetTableViewCell.labelTitle.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "learn_Swift_UI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/trungdang/Desktop/learn_Swift_UI/learn_Swift_UI/PetTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "EA6F3A9A-B2AB-4BC1-8767-4A8EC545E4FE - 769a3227bf4f53bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "learn_Swift_UI.PetTableViewCell.labelTitle.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "learn_Swift_UI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/trungdang/Desktop/learn_Swift_UI/learn_Swift_UI/PetTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "EA6F3A9A-B2AB-4BC1-8767-4A8EC545E4FE - e6767f6b75c8c820"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "learn_Swift_UI.PetTableViewCell.labelTitle.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "learn_Swift_UI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/trungdang/Desktop/learn_Swift_UI/learn_Swift_UI/PetTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "EA6F3A9A-B2AB-4BC1-8767-4A8EC545E4FE - 469ba276836245aa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "learn_Swift_UI.PetTableViewCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; learn_Swift_UI.PetTableViewCell"
+                  moduleName = "learn_Swift_UI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/trungdang/Desktop/learn_Swift_UI/learn_Swift_UI/PetTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "EA6F3A9A-B2AB-4BC1-8767-4A8EC545E4FE - 22ef86ef63e33cb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "learn_Swift_UI.PetTableViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;learn_Swift_UI.PetTableViewCell&gt;"
+                  moduleName = "learn_Swift_UI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/trungdang/Desktop/learn_Swift_UI/learn_Swift_UI/PetTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "108">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
